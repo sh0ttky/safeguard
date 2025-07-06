@@ -8,7 +8,7 @@ a **1.8GHz Quad Cortex-A53** CPU, 4GB of **DDR4** RAM, 32GB of **eMMC** storage 
 
 on the **software** :
 
-- Custom **safeguard_linux** embedded distribution.
+- Custom **safeguardOS** embedded distribution.
 - Real-time malware scanning.
 - Content Disarm & Reconstruction in storage mode.
 - File integrity signing and encryption.
