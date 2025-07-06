@@ -1,10 +1,11 @@
 # safeguard
 
-**safeguard** is a secure, Rust-based embedded device that automatically scans industrial and high risk appliances ( in host mode ), sanitizes, signs, and stores files. Designed for air-gapped, high-security military environments, it operates:
+**safeguard** is a secure, Rust-based SOC embedded device that automatically scans, sanitizes, signs, and stores files. Designed for air-gapped, high-security military environments, it operates:
 
 on the **hardware** :
 
 a **1.8GHz Quad Cortex-A53** CPU, 4GB of **DDR4** RAM, 32GB of **eMMC** storage & a Variety of IO periphirals.
+
 on the **software** :
 
 - Custom **safeguard_linux** embedded distribution 
