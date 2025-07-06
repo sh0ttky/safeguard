@@ -23,8 +23,8 @@ on the **software** :
 ## Component
 
 
+![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/30916f99-5e35-4b5d-878d-fc68e0e515d4)
 
-![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/824f0e5b-62f3-4ccc-adfb-f79c5af3c48c)
 
 
 | Component              | Purpose                                      |
