@@ -23,14 +23,16 @@ on the **software** :
 ## Components
 
 
-![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/30916f99-5e35-4b5d-878d-fc68e0e515d4)
+![Untitled Diagram drawio (3)](https://github.com/user-attachments/assets/7f8e0ef9-b7cb-4bf1-afc7-b4103b5dfbe2)
+
 
 
 
 | Component              | Purpose                                      |
 |--------------------|----------------------------------------------|
-| `HAL: hardware_abstraction_layer` | Controls GPIO, USB mode, and low-level device access |
+| `HAL: hardware_abstraction_layer` | Controls GPIO, USB mode, UART and low-level device access |
 | `logger`           | Central logging facility across all components                    |
+| `shared`           | Shared libraries across components                    |
 | `io`               | Manages USB and file I/O                     |
 | `sandboxer`          | Oversees and manages secured sandboxes    |
 | `scanner`          | Runs Signature based AV and YARA       |
