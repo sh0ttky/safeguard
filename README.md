@@ -20,7 +20,7 @@ on the **software** :
 
 
 
-## Component
+## Components
 
 
 ![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/30916f99-5e35-4b5d-878d-fc68e0e515d4)
