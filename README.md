@@ -1,5 +1,5 @@
 # safeguard
----
+
 **safeguard** is a secure, Rust-based & ARM architecture SOC embedded device that automatically scans, sanitizes, signs, and stores files. Designed for air-gapped, high-security military environments, it operates:
 
 on the **hardware** :
@@ -21,7 +21,7 @@ on the **software** :
 
 
 ## Component
----
+
 
 ![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/30916f99-5e35-4b5d-878d-fc68e0e515d4)
 
