@@ -8,13 +8,13 @@ a **1.8GHz Quad Cortex-A53** CPU, 4GB of **DDR4** RAM, 32GB of **eMMC** storage 
 
 on the **software** :
 
-- Custom **safeguard_linux** embedded distribution 
-- Real-time malware scanning
-- Content Disarm & Reconstruction in storage mode
-- File integrity signing and encryption
-- Dual operating modes: Normal (Scan) and Storage (Sanitize + Certify)
-- Secure, minimal runtime ( added security layers with sandboxing )
-- Custom board & hardware optimized for this application 
+- Custom **safeguard_linux** embedded distribution.
+- Real-time malware scanning.
+- Content Disarm & Reconstruction in storage mode.
+- File integrity signing and encryption.
+- Dual operating modes: Normal (Scan) and Storage (Sanitize + Certify).
+- Secure, minimal runtime.
+- Added security layer with sandboxing.
 - Secure logging with persistent trail.
 
 
